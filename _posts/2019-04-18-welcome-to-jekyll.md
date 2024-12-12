@@ -52,4 +52,4 @@ Payment & Contact: http://t.me/AIVCAM
 
 Find the correct source and download [VCamPro](https://vcampro.github.io/) from the official address. We will not be responsible for any issues arising from downloads from other sources. We will provide support for users experiencing problems with the software on their PC or phone. However, our support is limited to basic assistance if you are unable to install it. Please make sure to carefully read the information provided in the links to ensure proper installation and functionality. Thank you.
 
-## Support: https://t.me/AIVCAM
+## Support: [https://t.me/AIVCAM](https://t.me/aivcam)
